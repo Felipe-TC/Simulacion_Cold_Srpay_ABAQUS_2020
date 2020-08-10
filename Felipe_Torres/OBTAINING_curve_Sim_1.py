@@ -1,3 +1,8 @@
+# Este codigo solo se usa en el .CAE especifico. No es un codigo totalmente independiente.
+# Pero les puede servir para hacerse una idea del algoritmo
+
+# ----------------------------- o --------------------------------
+
 # -*- coding: mbcs -*-
 #
 # Abaqus/CAE Release 2017 replay file
