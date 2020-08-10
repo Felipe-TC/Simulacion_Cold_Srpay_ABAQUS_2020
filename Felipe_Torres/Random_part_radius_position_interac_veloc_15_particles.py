@@ -1,3 +1,8 @@
+# Este codigo busca mostrar la randomizacion de particulas en 3D.
+# Se usa en un .CAE especifico. No es un codigo generalizado. Les puede servir para ver el algoritmo.
+
+# ---------------------------------------- o -----------------------------------
+
 # -*- coding: mbcs -*-
 #
 # Abaqus/CAE Release 2017 replay file
