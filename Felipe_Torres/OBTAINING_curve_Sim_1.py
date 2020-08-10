@@ -1,4 +1,5 @@
-# Este codigo solo se usa en el .CAE especifico. No es un codigo totalmente independiente.
+# Este es el codigo que use para obtener la curva de mis resultados.
+# Este codigo solo se usa en el .CAE especifico (adjunto en la carpeta CAEs/Randomized_already). No es un codigo totalmente independiente.
 # Pero les puede servir para hacerse una idea del algoritmo
 
 # ----------------------------- o --------------------------------
