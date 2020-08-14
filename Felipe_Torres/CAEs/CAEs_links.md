@@ -1,5 +1,3 @@
 # Links a los CAEs
-# for_scripting:
-https://drive.google.com/drive/folders/18paBS0TDrQKScELHU6dBnipd7Lmp5-kF?usp=sharing
-# Randomized_already
-https://drive.google.com/drive/folders/19mT7bFzvFiUIDg8yLD1mfhL23889lbPP?usp=sharing
+https://drive.google.com/drive/folders/1DA-rhh9ltOTEMLmOiq5BVquWW1UujqRL?usp=sharing
+Dentro encontraran los CAEs para ejecutar el script de randomizacion, ademas del CAE para hacerle post procesamiento
